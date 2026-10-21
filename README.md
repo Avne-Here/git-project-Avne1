@@ -14,3 +14,7 @@ I am a student at upGrad School of Technology, currently learning Git and GitHub
 
 ## Contact
 - Email: avnedeepak@gmail.com
+
+## Hobbies
+- I like reading books.
+- I like listening to music.
