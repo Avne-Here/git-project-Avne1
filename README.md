@@ -11,7 +11,3 @@ I am a student at upGrad School of Technology, currently learning Git and GitHub
 ## Projects
 - UpStart - Complete start up classes
 - Git and GitHub - Complete this worksheet
-
-## Social Links
-- Github: hfjn o
-- LinkedIn - jildfn
